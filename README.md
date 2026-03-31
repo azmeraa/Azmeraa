@@ -1,3 +1,4 @@
+<img width="1167" height="1347" alt="banner" src="https://github.com/user-attachments/assets/0a616e95-18d8-40f6-863f-02ae7f0b4d37" />
 # 👩‍💻 Azmera Abebe Teshale
 
 ![Banner](https://github.com/azmeraa/azmeraa/blob/main/banner.png) <!-- Optional: you can add your own banner image -->
