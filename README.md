@@ -10,9 +10,16 @@
 ---
 
 ## 🚀 Projects
-- **[Banking Data Analysis](https://github.com/azmeraa)** – Advanced SQL Server analysis for banking datasets  
-- **[Database Optimization Projects](https://github.com/azmeraa)** – Performance tuning, indexing, and backup strategies  
-- More projects coming soon…
+- **[Banking Data Analysis](https://github.com/azmeraa/banking-data-analysis)** – Advanced SQL Server analysis for banking datasets  
+- **[Database Optimization Projects](https://github.com/azmeraa/database-optimization)** – Performance tuning, indexing, and backup strategies  
+- **[Oracle 19c Tutorials](https://github.com/azmeraa/oracle-19c-tutorials)** – Step-by-step Oracle tutorials for junior DBAs  
+
+---
+
+## 📜 Recent Certifications
+- **[Oracle Database 12c Admin I](https://www.your-cert-link.com)** – Oracle Certified Professional  
+- **[PL/SQL Fundamentals](https://www.your-cert-link.com)** – Hands-on SQL & PL/SQL practice  
+- **[Linux Fundamentals](https://www.your-cert-link.com)** – Linux command-line expertise  
 
 ---
 
